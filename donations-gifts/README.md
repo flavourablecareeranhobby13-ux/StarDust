@@ -62,8 +62,8 @@ Edit the CryptoWallet widget in `index.html`:
 
 ### 3. Update Contact Information
 Replace placeholder contact details in the HTML:
-- Email: `contact@tthubbdev.com`
-- Website: `www.tthubbdev.com`
+- Email: `flavourablecareeranhobby13@gmail.com`
+- Website: `www.nelmarkenterprises.com`
 
 ### 4. Customize Styling
 Modify `styles.css` to match your brand:
